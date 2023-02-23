@@ -42,6 +42,7 @@ console.log('Variable Suma: ', suma)
 var suma1 = 0;
 
 while (suma1 < 3) {
+    // código a repetir
     suma1 = suma1 + 1;
     console.log(suma1)
 }
